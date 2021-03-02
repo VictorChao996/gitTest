@@ -1,3 +1,3 @@
-æ¸¬è©¦ å„ç¨®æ¸¬è©¦
-----------------------------
-githubä¸Šé¢ç·¨è¼¯æ¸¬è©¦ 
+cmd ¤¤¤å¦rÅã¥Ü´ú¸Õ this is a test for UTF-8
+cmd¿é¤J´ú¸Õ 
+add something new to txt
